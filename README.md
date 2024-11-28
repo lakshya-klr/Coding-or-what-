@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -74,10 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
