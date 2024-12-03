@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
+| [2232-adding-spaces-to-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Matrix
 |  |
@@ -70,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2232-adding-spaces-to-a-string) |
 ## Greedy
 |  |
 | ------- |
