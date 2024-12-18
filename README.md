@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
 | [0787-sliding-puzzle](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
