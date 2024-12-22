@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2232-adding-spaces-to-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Ordered Set
