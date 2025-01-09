@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0414-third-maximum-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2164-two-best-non-overlapping-events) |
