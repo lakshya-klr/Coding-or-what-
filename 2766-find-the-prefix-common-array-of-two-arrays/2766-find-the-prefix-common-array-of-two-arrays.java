@@ -1,20 +1,20 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
-        
-        HashSet<Integer> set1= new HashSet<>();
-                HashSet<Integer> set2= new HashSet<>();
-        
-
-        int[] ans = new int[A.length];
+        int ans[] = new int[A.length];
+        int counter[] = new int[A.length+1];
+        int n = A.length;
         for(int i =0;i<A.length;i++){
-            int count=0;
-          set1.add(A[i]);
-          set2.add(B[i]);
-          for( int n : set1){
-            if(set2.contains(n)) count++;
-          }
-          ans[i]=count;
+            counter[A[i]]++;
+            counter[B[i]]++;
+            ans[i]=checkcount(counter , n);
         }
         return ans;
     }
+private int checkcount(int[] arr , int n){
+    int count=0;
+    for(int i =1;i<=n;i++){
+        if(arr[i]==2) count++;
+    }
+    return count;
+}
 }
