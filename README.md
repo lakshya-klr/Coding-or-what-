@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0228-summary-ranges) |
+| [0407-trapping-rain-water-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1917-maximum-average-pass-ratio) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
