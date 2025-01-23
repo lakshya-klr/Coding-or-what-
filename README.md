@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1972-rotating-the-box) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1502-construct-k-palindrome-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
@@ -357,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
