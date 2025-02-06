@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1524-string-matching-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
 | [0952-word-subsets](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
