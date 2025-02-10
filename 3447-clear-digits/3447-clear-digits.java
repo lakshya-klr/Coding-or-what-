@@ -1,26 +1,15 @@
 class Solution {
     public String clearDigits(String s) {
-        Stack<Character> stk = new Stack<>();
-        for(int i=0;i<s.length();i++){
-           
-                stk.push(s.charAt(i));
-            
-            if(stk.peek()=='0'||stk.peek()=='1'||stk.peek()=='2'||stk.peek()=='3'||stk.peek()=='4'||stk.peek()=='5'||stk.peek()=='6'||stk.peek()=='7'||stk.peek()=='8'||stk.peek()=='9'){
-
-                    stk.pop();
-                    stk.pop();
-                
+        StringBuilder sb= new StringBuilder(s);
+        
+        for(int i=0; i<sb.length(); i++){
+            int chrIdx=sb.charAt(i)-'0';
+            if(chrIdx>=0 && chrIdx<=9){ // Check if the character is a digit
+                sb=sb.delete(i-1, i+1); // Delete the digit and its preceding character
+                i-=2; // Adjust index to account for deletion
             }
-           
         }
-        if(stk.size()==0) return "";
-        StringBuilder str = new StringBuilder();
-        
-        while(!stk.isEmpty()){
-        
-            str.append(stk.peek());
-            stk.pop();
-        }
-        return str.reverse().toString();
+
+        return sb.toString(); // Return the modified string
     }
 }
