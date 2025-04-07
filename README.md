@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
