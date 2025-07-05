@@ -1,20 +1,13 @@
 class Solution {
     public int findLucky(int[] arr) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i =0;i<arr.length;i++){
-            map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
+        int arr2[] = new int[501];
+        for(int n :arr){
+            arr2[n]+=1;
         }
-        // int[] arr2= new int[arr.length];
-        int count=-1;
-        for(int n : map.keySet()){
-            if(map.get(n)==n){
-                // arr2[count]=n;
-                count=n;
-            }
+        int result=-1;
+        for(int i =1;i<501;i++){
+            if(i==arr2[i]) result=i;
         }
-        // Arrays.sort(arr2);
-        // return (arr2[arr2.length-1]==0)?-1:arr2[arr2.length-1];
-        return count;
-        
+        return result==0?-1:result;
     }
 }
