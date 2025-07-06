@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2145-grid-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2107-find-unique-binary-string) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
