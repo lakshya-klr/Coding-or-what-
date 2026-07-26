@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0787-sliding-puzzle) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2164-two-best-non-overlapping-events) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
