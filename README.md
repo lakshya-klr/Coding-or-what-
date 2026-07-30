@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3536-maximum-product-of-two-digits) |
