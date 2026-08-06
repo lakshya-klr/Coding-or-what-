@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2998-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
