@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2915-count-of-interesting-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
