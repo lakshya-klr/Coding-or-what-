@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0868-push-dominoes) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0628-maximum-product-of-three-numbers) |
