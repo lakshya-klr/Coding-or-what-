@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2145-grid-game) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2448-count-number-of-bad-pairs) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -715,4 +719,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
