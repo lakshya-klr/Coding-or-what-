@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0182-duplicate-emails) |
 | [1390-average-selling-price](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1390-average-selling-price) |
 ## Tree
 |  |
