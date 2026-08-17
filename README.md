@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0868-push-dominoes) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0868-push-dominoes) |
