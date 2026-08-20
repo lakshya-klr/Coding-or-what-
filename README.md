@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
