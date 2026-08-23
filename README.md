@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1927-sum-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1927-sum-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2050-count-good-numbers) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
