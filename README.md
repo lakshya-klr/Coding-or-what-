@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
