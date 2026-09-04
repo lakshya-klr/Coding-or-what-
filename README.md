@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3643-zero-array-transformation-ii) |
+| [3903-smallest-stable-index-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Queue
 |  |
 | ------- |
