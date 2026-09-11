@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2998-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
