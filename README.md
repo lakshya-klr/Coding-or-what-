@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0836-rectangle-overlap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -771,4 +772,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
