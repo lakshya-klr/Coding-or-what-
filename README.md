@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2509-minimize-xor](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2681-put-marbles-in-bags) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Counting
