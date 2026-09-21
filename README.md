@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
