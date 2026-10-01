@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0242-valid-anagram) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
