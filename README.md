@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0952-word-subsets) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1502-construct-k-palindrome-strings) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0868-push-dominoes](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
