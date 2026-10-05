@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0768-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
