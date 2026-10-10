@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2300-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2509-minimize-xor](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2509-minimize-xor) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2681-put-marbles-in-bags) |
