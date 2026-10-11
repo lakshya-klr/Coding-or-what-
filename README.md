@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2868-continuous-subarrays) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lakshya-klr/Coding-or-what-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2998-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-unique-3-digit-even-numbers) |
