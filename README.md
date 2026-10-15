@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2915-count-of-interesting-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3227-find-missing-and-repeated-values) |
@@ -698,11 +700,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
