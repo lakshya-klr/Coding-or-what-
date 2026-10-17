@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3643-zero-array-transformation-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3548-find-the-count-of-good-integers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3430-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lakshya-klr/Coding-or-what-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
